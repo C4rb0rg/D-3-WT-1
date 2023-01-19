@@ -1,0 +1,23 @@
+
+.blue {
+    width:800px;
+    height:500px;
+    background: rgb(0, 106, 167);
+    position: fixed;
+}
+.yellow1 {
+       width: 800px;
+       height: 100px;
+       background-color:rgb(254, 204, 2);
+       margin-top: 25%;
+    }
+ .yellow2 {
+        width: 100px;
+        height: 71.7vh;
+        background-color:rgb(254, 204, 2);
+        bottom:20px;
+        position: absolute;
+        top: 0;
+        margin-left: 200px;
+       }
+
