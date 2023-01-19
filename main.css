@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.square {
+    background-color: black;
+    position: absolute;
+    
+
+
+}
+
+
