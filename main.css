@@ -1,7 +1,7 @@
 body:hover {
 	background: linear-gradient(70deg, #000000, #7e3e57, #70d143, #b723d5);
 	background-size: 300%, 300%;
-	animation: gradient 5s ease reverse infinite;
+	animation: gradient 5s ease ease reverse infinite;
 	height: 100vh;
 }
 
@@ -15,8 +15,8 @@ body:hover {
 	100% {
 		background-position: 0% 50%;
 	}
-}
 
+}
 
 .center {
     display: block;
@@ -25,12 +25,6 @@ body:hover {
     position: relative;
   }
 
-.square {
-    height: 600vh;
-    width: 600vw;
-    color: white;
-    position: relative;
-}
 
 
    
